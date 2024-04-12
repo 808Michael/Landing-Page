@@ -1,0 +1,28 @@
+body {
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+    background-color: azure;
+}
+
+h1 {
+    color: coral;
+    font-size: 36px;
+}
+
+button {
+    padding: 12px 24px;
+    font-size: 20px;
+    cursor: pointer;
+    background-color: indianred;
+    color: #ffffff;
+    border: none;
+    border-radius: 8px;
+}
+
+button:hover {
+    background-color: red;
+}
+
+coordinates {
+    font-size: 20px;
+}
