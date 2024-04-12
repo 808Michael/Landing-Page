@@ -5,7 +5,7 @@ body {
 }
 
 h1 {
-    color: teal;
+    color: coral;
     font-size: 36px;
 }
 
@@ -13,14 +13,14 @@ button {
     padding: 12px 24px;
     font-size: 20px;
     cursor: pointer;
-    background-color: teal;
+    background-color: indianred;
     color: #ffffff;
     border: none;
     border-radius: 8px;
 }
 
 button:hover {
-    background-color: #008080;
+    background-color: red;
 }
 
 coordinates {
